@@ -1,0 +1,6 @@
+framework module CCBleConnect {
+  umbrella header "CCBleConnect.h"
+
+  export *
+  module * { export * }
+}
